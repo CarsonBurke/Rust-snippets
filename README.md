@@ -1,1 +1,1 @@
-# Rust-Neural-Network
+# Rust-Snippets
