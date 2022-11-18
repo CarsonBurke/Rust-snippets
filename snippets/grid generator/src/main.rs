@@ -15,7 +15,7 @@ fn main() {
         
         while y < y_max {
             
-            grid[x].push(y);
+            grid[x].push(x * x_max + y);
             
             y += 1;
         }
